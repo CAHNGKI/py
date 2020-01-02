@@ -1,0 +1,19 @@
+{
+    "people": [
+        {
+            "name": "kim",
+            "website": "naver.com",
+            "from": "seoul"
+        },
+        {
+            "name": "park",
+            "website": "google.com",
+            "from": "busan"
+        },
+        {
+            "name": "moon",
+            "website": "daum.net",
+            "from": "ulsan"
+        }
+    ]
+}
